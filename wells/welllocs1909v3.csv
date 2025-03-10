@@ -1,2 +1,2 @@
-"","countyname","depth_to_water","town","date","ID","countycode","township","geometry","year2","depth","long","lat","sat","satcut"
-"1","Trego",-16.35,"Trego Center",1909-09-07,385919099542601,195,12,c(-99.90839, 38.986439),"1909","71-0",-99.90839,38.986439,54.16823959,"0-65"
+"","countyname","depth_to_water","town","date","ID","countycode","township","geometry","year","depth","lon","lat","sat","satcut"
+"1","Trego",-16.35,"Trego Center",1909-09-07,385919099542601,195,0,c(-99.90839, 38.986439),"1909","71-0",-99.90839,38.986439,54.1682396,"0-65"
