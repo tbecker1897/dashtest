@@ -3600,56 +3600,101 @@
 "3599","October","Wilson Dam","2024",1511.52533333333
 "3600","September","Wilson Dam","2024",1512.08333333333
 "3601","January","Big Hill Dam","2025",857.917419354839
-"3602","February","Cedar Bluff Dam","2025",2122.61785714286
-"3603","January","Cedar Bluff Dam","2025",2122.65096774194
-"3604","March","Cedar Bluff Dam","2025",2122.606
-"3605","January","Cheney Dam","2025",1414.14258064516
-"3606","February","Clinton Dam","2025",875.387857142857
-"3607","January","Clinton Dam","2025",875.691
-"3608","March","Clinton Dam","2025",875.236
-"3609","January","Council Grove Dam","2025",1272.16032258065
-"3610","January","El Dorado Dam","2025",1337.32419354839
-"3611","January","Elk City Dam","2025",796.382580645161
-"3612","January","Fall River Dam","2025",949.019677419355
-"3613","February","Glen Elder Dam (Waconda Lake)","2025",1449.39892857143
-"3614","January","Glen Elder Dam (Waconda Lake)","2025",1449.25933333333
-"3615","March","Glen Elder Dam (Waconda Lake)","2025",1449.468
-"3616","February","Hillsdale Dam","2025",915.821111111111
-"3617","January","Hillsdale Dam","2025",915.131935483871
-"3618","March","Hillsdale Dam","2025",915.732
-"3619","January","John Redmond Dam","2025",1041.65483870968
-"3620","February","Kanopolis Dam","2025",1462.77642857143
-"3621","January","Kanopolis Dam","2025",1462.70580645161
-"3622","March","Kanopolis Dam","2025",1462.87
-"3623","February","Kirwin Dam","2025",1716.41035714286
-"3624","January","Kirwin Dam","2025",1716.32096774194
-"3625","March","Kirwin Dam","2025",1716.554
-"3626","February","Lovewell Dam","2025",1579.41714285714
-"3627","January","Lovewell Dam","2025",1579.14935483871
-"3628","March","Lovewell Dam","2025",1579.526
-"3629","January","Marion Dam","2025",1350.46935483871
-"3630","February","Melvern Dam","2025",1035.52714285714
-"3631","January","Melvern Dam","2025",1035.67516129032
-"3632","March","Melvern Dam","2025",1034.424
-"3633","February","Milford Dam","2025",1143.95464285714
-"3634","January","Milford Dam","2025",1143.58129032258
-"3635","March","Milford Dam","2025",1144.182
-"3636","February","Norton Dam (Keith Sebelius Lake)","2025",2292.79821428571
-"3637","January","Norton Dam (Keith Sebelius Lake)","2025",2292.65225806452
-"3638","March","Norton Dam (Keith Sebelius Lake)","2025",2292.954
-"3639","February","Perry Dam","2025",891.751071428571
-"3640","January","Perry Dam","2025",890.074193548387
-"3641","March","Perry Dam","2025",890.954
-"3642","February","Pomona Dam","2025",974.447142857143
-"3643","January","Pomona Dam","2025",973.13935483871
-"3644","March","Pomona Dam","2025",973.478
-"3645","January","Toronto Dam","2025",901.954838709677
-"3646","February","Tuttle Creek Dam","2025",1072.07285714286
-"3647","January","Tuttle Creek Dam","2025",1069.46129032258
-"3648","March","Tuttle Creek Dam","2025",1073.088
-"3649","February","Webster Dam","2025",1866.73178571429
-"3650","January","Webster Dam","2025",1866.7375
-"3651","March","Webster Dam","2025",1866.752
-"3652","February","Wilson Dam","2025",1511.37428571429
-"3653","January","Wilson Dam","2025",1511.33903225806
-"3654","March","Wilson Dam","2025",1511.41
+"3602","April","Cedar Bluff Dam","2025",2122.35275862069
+"3603","February","Cedar Bluff Dam","2025",2122.61785714286
+"3604","January","Cedar Bluff Dam","2025",2122.65096774194
+"3605","June","Cedar Bluff Dam","2025",2121.905
+"3606","March","Cedar Bluff Dam","2025",2122.55677419355
+"3607","May","Cedar Bluff Dam","2025",2121.99387096774
+"3608","January","Cheney Dam","2025",1414.14258064516
+"3609","April","Clinton Dam","2025",875.969333333333
+"3610","February","Clinton Dam","2025",875.387857142857
+"3611","January","Clinton Dam","2025",875.691
+"3612","June","Clinton Dam","2025",877.966666666667
+"3613","March","Clinton Dam","2025",875.539032258064
+"3614","May","Clinton Dam","2025",877.329032258065
+"3615","January","Council Grove Dam","2025",1272.16032258065
+"3616","January","El Dorado Dam","2025",1337.32419354839
+"3617","January","Elk City Dam","2025",796.382580645161
+"3618","January","Fall River Dam","2025",949.019677419355
+"3619","April","Glen Elder Dam (Waconda Lake)","2025",1449.48
+"3620","February","Glen Elder Dam (Waconda Lake)","2025",1449.39892857143
+"3621","January","Glen Elder Dam (Waconda Lake)","2025",1449.25933333333
+"3622","June","Glen Elder Dam (Waconda Lake)","2025",1450.03333333333
+"3623","March","Glen Elder Dam (Waconda Lake)","2025",1449.48483870968
+"3624","May","Glen Elder Dam (Waconda Lake)","2025",1449.99290322581
+"3625","April","Hillsdale Dam","2025",915.861333333333
+"3626","February","Hillsdale Dam","2025",915.821111111111
+"3627","January","Hillsdale Dam","2025",915.131935483871
+"3628","June","Hillsdale Dam","2025",917.7
+"3629","March","Hillsdale Dam","2025",915.376451612903
+"3630","May","Hillsdale Dam","2025",916.768709677419
+"3631","January","John Redmond Dam","2025",1041.65483870968
+"3632","April","Kanopolis Dam","2025",1464.06566666667
+"3633","February","Kanopolis Dam","2025",1462.77642857143
+"3634","January","Kanopolis Dam","2025",1462.70580645161
+"3635","June","Kanopolis Dam","2025",1464.36333333333
+"3636","March","Kanopolis Dam","2025",1462.86
+"3637","May","Kanopolis Dam","2025",1464.09806451613
+"3638","April","Kirwin Dam","2025",1716.781
+"3639","February","Kirwin Dam","2025",1716.41035714286
+"3640","January","Kirwin Dam","2025",1716.32096774194
+"3641","June","Kirwin Dam","2025",1716.78333333333
+"3642","March","Kirwin Dam","2025",1716.67580645161
+"3643","May","Kirwin Dam","2025",1716.83903225806
+"3644","April","Lovewell Dam","2025",1581.26066666667
+"3645","February","Lovewell Dam","2025",1579.41714285714
+"3646","January","Lovewell Dam","2025",1579.14935483871
+"3647","June","Lovewell Dam","2025",1583.92666666667
+"3648","March","Lovewell Dam","2025",1579.84741935484
+"3649","May","Lovewell Dam","2025",1582.79290322581
+"3650","January","Marion Dam","2025",1350.46935483871
+"3651","April","Melvern Dam","2025",1035.116
+"3652","February","Melvern Dam","2025",1035.52714285714
+"3653","January","Melvern Dam","2025",1035.67516129032
+"3654","June","Melvern Dam","2025",1037.79333333333
+"3655","March","Melvern Dam","2025",1034.78129032258
+"3656","May","Melvern Dam","2025",1036.31741935484
+"3657","April","Milford Dam","2025",1144.70066666667
+"3658","February","Milford Dam","2025",1143.95464285714
+"3659","January","Milford Dam","2025",1143.58129032258
+"3660","June","Milford Dam","2025",1144.48666666667
+"3661","March","Milford Dam","2025",1144.34322580645
+"3662","May","Milford Dam","2025",1144.36419354839
+"3663","April","Norton Dam (Keith Sebelius Lake)","2025",2293.19034482759
+"3664","February","Norton Dam (Keith Sebelius Lake)","2025",2292.79821428571
+"3665","January","Norton Dam (Keith Sebelius Lake)","2025",2292.65225806452
+"3666","June","Norton Dam (Keith Sebelius Lake)","2025",2292.92
+"3667","March","Norton Dam (Keith Sebelius Lake)","2025",2293.07870967742
+"3668","May","Norton Dam (Keith Sebelius Lake)","2025",2293.03774193548
+"3669","April","Perry Dam","2025",893.010666666667
+"3670","February","Perry Dam","2025",891.751071428571
+"3671","January","Perry Dam","2025",890.074193548387
+"3672","June","Perry Dam","2025",894.08
+"3673","March","Perry Dam","2025",891.254193548387
+"3674","May","Perry Dam","2025",894.025161290323
+"3675","April","Pomona Dam","2025",973.056666666667
+"3676","February","Pomona Dam","2025",974.447142857143
+"3677","January","Pomona Dam","2025",973.13935483871
+"3678","June","Pomona Dam","2025",976.976666666667
+"3679","March","Pomona Dam","2025",972.748064516129
+"3680","May","Pomona Dam","2025",975.105806451613
+"3681","January","Toronto Dam","2025",901.954838709677
+"3682","April","Tuttle Creek Dam","2025",1078.891
+"3683","February","Tuttle Creek Dam","2025",1072.07285714286
+"3684","January","Tuttle Creek Dam","2025",1069.46129032258
+"3685","June","Tuttle Creek Dam","2025",1080.76
+"3686","March","Tuttle Creek Dam","2025",1073.96451612903
+"3687","May","Tuttle Creek Dam","2025",1080.61580645161
+"3688","April","Webster Dam","2025",1866.99433333333
+"3689","February","Webster Dam","2025",1866.73178571429
+"3690","January","Webster Dam","2025",1866.7375
+"3691","June","Webster Dam","2025",1867.23
+"3692","March","Webster Dam","2025",1866.81766666667
+"3693","May","Webster Dam","2025",1867.25580645161
+"3694","April","Wilson Dam","2025",1511.28366666667
+"3695","February","Wilson Dam","2025",1511.37428571429
+"3696","January","Wilson Dam","2025",1511.33903225806
+"3697","June","Wilson Dam","2025",1511.37
+"3698","March","Wilson Dam","2025",1511.38903225806
+"3699","May","Wilson Dam","2025",1511.37903225806
