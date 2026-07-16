@@ -1,2 +1,2 @@
 "","countyname","depth_to_water","town","date","ID","countycode","township","geometry","year","depth","lon","lat","sat","satcut"
-"1","Cherokee",210,"BAXTER SPRINGS",1926-01-01,370205094442301,21,0,c(-94.7348618, 37.0337977),"1926",NA,-94.7348618,37.0337977,NA,NA
+"1","Cherokee",-210,"BAXTER SPRINGS",1926-01-01,370205094442301,21,0,c(-94.7348618, 37.0337977),"1926","215-144",-94.7348618,37.0337977,NA,NA
